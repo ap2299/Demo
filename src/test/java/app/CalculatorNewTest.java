@@ -6,10 +6,14 @@ import org.junit.Test;
 
 public class CalculatorNewTest 
 {
-
-	@Test
+   @Test
 	public void test() 
 	{
 		fail("Not yet implemented");
 	}
+   @Test 
+   public void test1()
+   {
+     System.out.println("A new method added");
+   } 
 }
