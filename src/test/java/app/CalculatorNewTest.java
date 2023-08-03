@@ -12,7 +12,7 @@ public class CalculatorNewTest
 		fail("Not yet implemented");
 	}
 	@Test 
-	   public void test2()
+	   public void testT()
 	   {
 	     System.out.println("A new method added");
 	   } 
